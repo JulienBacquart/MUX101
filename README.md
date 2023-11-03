@@ -1,7 +1,7 @@
 Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of the CNAM Paris [MUX101 class](https://formation.cnam.fr/rechercher-par-discipline/multimedia-et-interaction-humain-machine-1085793.kjsp) 'Multimédia et interaction humain-machine'
 
 |   |
-|---|
+|:---:|
 |[bargraph](bargraph.ipynb)|
 |![bargraph_0001_small.png](bargraph_0001_small.png)|
 |[le_parc](le_parc.ipynb)|
