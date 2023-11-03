@@ -18,5 +18,5 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |![truchet_tiles_0001_small.png](truchet_tiles_0001_small.png)|
 |[vasarely](vasarely.ipynb)|
 |![vasarely_0001_small.png](vasarely_0001_small.png)|
-|[[vasarely_2]([vasarely_2.ipynb)|
+|[vasarely_2]([vasarely_2.ipynb)|
 |![vasarely_2_0001_small.png](vasarely_2_0001_small.png)|
