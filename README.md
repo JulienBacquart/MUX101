@@ -22,3 +22,4 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |![vasarely_2_0001_small.png](vasarely_2_0001_small.png)|
 |[moire](moire.ipynb)|
 |![moire_0001_small.png](moire_0001_small.png)|
+|[downsampling](downsampling.ipynb)||![downsampling_0001_small.png](downsampling_0001_small.png)|
