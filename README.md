@@ -26,4 +26,4 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |![downsampling_0001_small.png](downsampling_0001_small.png)|
 |[illusion](illusion.ipynb)|
 |![illusion_0001_small.png](illusion_0001_small.png)|
-|[grayscale](grayscale.ipynb)||![grayscale_0001_small.png](grayscale_0001_small.png)|
+|[grayscale](grayscale.ipynb)||![grayscale_0001_small.png](grayscale_0001_small.png)||[histogram](histogram.ipynb)||![histogram_small.png](histogram_small.png)|
