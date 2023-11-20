@@ -31,4 +31,7 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |[histogram + auto color correction](histogram.ipynb)|
 |![histogram_small.png](histogram_small.png)|
 |![lenna_color_corrected_small.png](lenna_color_corrected_small.png)|
-|[floyd_steinberg](floyd_steinberg.ipynb)||![floyd_steinberg_0001_small.png](floyd_steinberg_0001_small.png)|
+|[floyd_steinberg](floyd_steinberg.ipynb)|
+|![floyd_steinberg_0001_small.png](floyd_steinberg_0001_small.png)|
+|[morphing](morphing.ipynb)|
+|![morphing.gif](morphing.gif)|
