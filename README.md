@@ -35,3 +35,7 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |![floyd_steinberg_0001_small.png](floyd_steinberg_0001_small.png)|
 |[morphing](morphing.ipynb)|
 |![morphing.gif](morphing.gif)|
+|[bresenham](bresenham.ipynb)|
+|![bresenham_0001_small.png](bresenham_0001_small.png)|
+|[superellipse](superellipse.ipynb)|
+|![superellipse.gif](superellipse.gif)|
