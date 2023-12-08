@@ -39,4 +39,7 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |![bresenham_0001_small.png](bresenham_0001_small.png)|
 |[superellipse](superellipse.ipynb)|
 |![superellipse.gif](superellipse.gif)|
-|[de_casteljau](de_casteljau.ipynb)||![de_casteljau_0001_small.png](de_casteljau_0001_small.png)||[moon_lander](moon_lander.ipynb)||![moon_lander_0001_small.png](moon_lander_0001_small.png)|
+|[de_casteljau](de_casteljau.ipynb)|
+|![de_casteljau_0001_small.png](de_casteljau_0001_small.png)|
+|[moon_lander](moon_lander.ipynb)|
+|[![moon_lander_0001_small.png](moon_lander_0001_small.png)](moon_lander_0001.png)|
