@@ -43,4 +43,4 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |[![de_casteljau_0001_small.png](de_casteljau_0001_small.png)](de_casteljau_0001.png)|
 |[moon_lander](moon_lander.ipynb)|
 |[![moon_lander_0001_small.png](moon_lander_0001_small.png)](moon_lander_0001.png)|
-|[fft](fft.ipynb)||[![fft_0001_small.png](fft_0001_small.png)](fft_0001.png)|
+|[fft](fft.ipynb)||[![fft_0001_small.png](fft_0001_small.png)](fft_0001.png)||[sound_synthesis](sound_synthesis.ipynb)||[![sound_synthesis_0001_small.png](sound_synthesis_0001_small.png)](sound_synthesis_0001.png)|
