@@ -55,3 +55,5 @@ Jupyter notebooks using [py5](https://py5coding.org/) realized in the context of
 |[dataviz_2](dataviz_2.ipynb)|
 |[![dataviz_2_0001_small.png](dataviz_2_0001_small.png)](dataviz_2_0001.png)|
 |[![dataviz_2_0002_small.png](dataviz_2_0002_small.png)](dataviz_2_0002.png)|
+|[Marble_Machine](./Marble_Machine/)|
+|[![Screenshot_marble_machine_small.png](./Marble_Machine/data/Screenshot_marble_machine_small.png)](./Marble_Machine/)|
